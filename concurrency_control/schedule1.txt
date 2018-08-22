@@ -1,0 +1,6 @@
+t1 start
+t2 start
+t2 write d1 1
+t1 write d2 2
+t2 read d2
+t1 commit
