@@ -8,7 +8,7 @@ Command for inserting and deleting key and pointers are in input.txt, and the pr
 
 After inserting
 insert c1
-![](screen_shots/before_insert.png)
+![](bplus_tree/screen_shots/before_insert.png)
 
 After inserting 
 insert c 1
@@ -17,15 +17,15 @@ insert f 3
 insert a 5
 insert b 6
 insert b 7
-![](screen_shots/Screenshot%20from%202018-03-12%2016-48-29.png)
+![](bplus_tree/screen_shots/Screenshot%20from%202018-03-12%2016-48-29.png)
 
 After deleting d
 delete d
-![](screen_shots/deleting.png)
+![](bplus_tree/screen_shots/deleting.png)
 
 After deleting 
 delete d
 delete c
 delete c
 delete f
-![](screen_shots/delete_end.png)
+![](bplus_tree/screen_shots/delete_end.png)
